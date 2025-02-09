@@ -1,0 +1,15 @@
+C:\Users\fersa\Programas\PracticasDotNet\Exception101\bin\Debug\net9.0\Exception101.exe
+C:\Users\fersa\Programas\PracticasDotNet\Exception101\bin\Debug\net9.0\Exception101.deps.json
+C:\Users\fersa\Programas\PracticasDotNet\Exception101\bin\Debug\net9.0\Exception101.runtimeconfig.json
+C:\Users\fersa\Programas\PracticasDotNet\Exception101\bin\Debug\net9.0\Exception101.dll
+C:\Users\fersa\Programas\PracticasDotNet\Exception101\bin\Debug\net9.0\Exception101.pdb
+C:\Users\fersa\Programas\PracticasDotNet\Exception101\obj\Debug\net9.0\Exception101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fersa\Programas\PracticasDotNet\Exception101\obj\Debug\net9.0\Exception101.AssemblyInfoInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\Exception101\obj\Debug\net9.0\Exception101.AssemblyInfo.cs
+C:\Users\fersa\Programas\PracticasDotNet\Exception101\obj\Debug\net9.0\Exception101.csproj.CoreCompileInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\Exception101\obj\Debug\net9.0\Exception101.sourcelink.json
+C:\Users\fersa\Programas\PracticasDotNet\Exception101\obj\Debug\net9.0\Exception101.dll
+C:\Users\fersa\Programas\PracticasDotNet\Exception101\obj\Debug\net9.0\refint\Exception101.dll
+C:\Users\fersa\Programas\PracticasDotNet\Exception101\obj\Debug\net9.0\Exception101.pdb
+C:\Users\fersa\Programas\PracticasDotNet\Exception101\obj\Debug\net9.0\Exception101.genruntimeconfig.cache
+C:\Users\fersa\Programas\PracticasDotNet\Exception101\obj\Debug\net9.0\ref\Exception101.dll
