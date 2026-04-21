@@ -1,0 +1,15 @@
+C:\Users\fersa\Programas\PracticasDotNet\ThrowExceptions101\bin\Debug\net9.0\ThrowExceptions101.exe
+C:\Users\fersa\Programas\PracticasDotNet\ThrowExceptions101\bin\Debug\net9.0\ThrowExceptions101.deps.json
+C:\Users\fersa\Programas\PracticasDotNet\ThrowExceptions101\bin\Debug\net9.0\ThrowExceptions101.runtimeconfig.json
+C:\Users\fersa\Programas\PracticasDotNet\ThrowExceptions101\bin\Debug\net9.0\ThrowExceptions101.dll
+C:\Users\fersa\Programas\PracticasDotNet\ThrowExceptions101\bin\Debug\net9.0\ThrowExceptions101.pdb
+C:\Users\fersa\Programas\PracticasDotNet\ThrowExceptions101\obj\Debug\net9.0\ThrowExceptions101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fersa\Programas\PracticasDotNet\ThrowExceptions101\obj\Debug\net9.0\ThrowExceptions101.AssemblyInfoInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\ThrowExceptions101\obj\Debug\net9.0\ThrowExceptions101.AssemblyInfo.cs
+C:\Users\fersa\Programas\PracticasDotNet\ThrowExceptions101\obj\Debug\net9.0\ThrowExceptions101.csproj.CoreCompileInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\ThrowExceptions101\obj\Debug\net9.0\ThrowExceptions101.sourcelink.json
+C:\Users\fersa\Programas\PracticasDotNet\ThrowExceptions101\obj\Debug\net9.0\ThrowExceptions101.dll
+C:\Users\fersa\Programas\PracticasDotNet\ThrowExceptions101\obj\Debug\net9.0\refint\ThrowExceptions101.dll
+C:\Users\fersa\Programas\PracticasDotNet\ThrowExceptions101\obj\Debug\net9.0\ThrowExceptions101.pdb
+C:\Users\fersa\Programas\PracticasDotNet\ThrowExceptions101\obj\Debug\net9.0\ThrowExceptions101.genruntimeconfig.cache
+C:\Users\fersa\Programas\PracticasDotNet\ThrowExceptions101\obj\Debug\net9.0\ref\ThrowExceptions101.dll
